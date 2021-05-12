@@ -1,1 +1,1 @@
-# python
+# Repository for leaning of python
